@@ -57,21 +57,21 @@
       <img src="https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Screenshot%202025-05-20%20154147.png">
       <h4>🗞 News Web App</h4>
       <p>Built using Flask, HTML, CSS, and JS. Users can read latest news, signup/login, and interactively explore categories.</p>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+      <a href="https://github.com/SonawaneGanes/NEWS-WEBSITE-USING-PYTHON-FLASK.git">📁 Source Code</a>
     </td>
-    <td>
-      <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7" alt="Project 2" width="100%">
-      <h4>📊 Data Dashboard</h4>
-      <p>A dynamic dashboard using Plotly, Dash & Pandas for real-time data visualization and analytics.</p>
+     <td>
+      <img src="https://images.unsplash.com/photo-1610401081998-e82c4bd19d82" alt="Project 2" width="100%">
+      <h4>🔍 WildEye AI</h4>
+      <p>AI-powered wildlife surveillance and monitoring tool. Detects endangered species using image recognition.</p>
       <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://images.unsplash.com/photo-1581090700227-1e8a937b5e4d" alt="Project 3" width="100%">
-      <h4>🔐 Cybercrime Record System</h4>
-      <p>Java + MySQL based platform to manage cybercriminal records with CRUD operations and admin dashboard.</p>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+      <img src="https://images.unsplash.com/photo-1573164574572-cb89e39749b4" alt="Project 3" width="100">
+      <h4>✈️ Flight Price Prediction</h4>
+      <p>ML model predicting flight ticket prices using Random Forest and Regression algorithms. Trained on real-world datasets.</p>
+      <a href="https://github.com/SonawaneGanes/Flight-Price-Prediction.git">📁 Source Code</a>
     </td>
     <td>
       <img src="https://images.unsplash.com/photo-1612831660479-b1f3dbbe02a6" alt="Project 4" width="100%">
