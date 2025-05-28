@@ -1,79 +1,54 @@
-### 👋 Hey there! I'm Ganesh Sonawane  
-🎓 Final-Year Engineering Student | 💻 Software & Web Developer | ☁️ Cloud & IoT & AI Enthusiast  
+![logo](https://github.com/ganeshsonawane39773/your-repo/blob/main/your-logo.jpg)
 
-- 📫 How to reach me   ganeshsonawane39773@gmail.com,
--  gs6394946@gmail.com 
----
+<h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1>
+<h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-🔍 **About Me:**  
-I'm a passionate developer who loves turning ideas into reality through code. With a strong foundation in Java and Python, I specialize in building scalable web applications, crafting intelligent backend systems, and automating processes with IoT devices. I’m also deeply interested in Artificial Intelligence — from machine learning fundamentals to exploring smart, data-driven solutions. Whether it's designing clean APIs, optimizing performance, or experimenting with AI models, I enjoy solving real-world problems using the power of technology.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsonawane39773&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsonawane39773" /> </p>
 
----
+- 🌱 I’m currently learning **Agile, SDLC, REST APIs, Debugging, Microservices, Cybersecurity**
+- 💬 Ask me about **Java, Python, Flask, React, IoT, Cloud Computing**
+- 📫 How to reach me **ganeshsonawane39773@gmail.com**, **gs6394946@gmail.com**
+- ⚡ Fun fact **Carrom Champion & Cricket & E-sports Enthusiast**
 
-💼 **What I Do:**  
-- 🔧 Develop full-stack web apps using **Java, Python (Flask), React, MySQL**  
-- ☁️ Build cloud-based projects like **Data Integrity Proofs** and **Parallel Processing in the Cloud**  
-- 🧠 Learn and implement **Agile, SDLC, REST APIs, Debugging, and System Design**  
-- 🔐 Dive deep into **Cybersecurity**, **Microservices**, and **Performance Optimization**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ganesh-sonawane-356179219" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-sonawane" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ganeshsonawane709" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshsonawane709" height="30" width="40" />
+  </a>
+  <a href="mailto:ganeshsonawane39773@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+  </a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
-🚀 **Current Projects:**  
-- 🗺️ **IR-Tree for Geographic Document Search** (Java)  
-  Designed a spatial index structure in Java to enable efficient geographic document querying, supporting proximity-based search and ranked retrieval.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshsonawane39773&show_icons=true&locale=en" alt="ganeshsonawane39773" /></p>
 
-- 📰 **Flask-based News Website**  
-  Developed a full-stack web application with user authentication, responsive UI templates, and news article rendering using Flask, HTML/CSS, and JavaScript.
-
-- 🧪 **IoT Smart Control System**  
-  Built a web-controlled IoT system using MQTT and Docker, enabling real-time control of appliances like lights, fans, and ACs with voice assistant integration.
-
-- 🐾 **Wildeye AI: Augmenting Wildlife Detection Model Using TensorFlow**  
-  Developed a wildlife detection system using the TensorFlow Object Detection API. Fine-tuned pre-trained models with custom datasets for higher accuracy in species identification. 
-  Implemented a real-time automated pipeline to analyze camera trap images, contributing to smarter wildlife monitoring and conservation efforts.
-
-
----
-
-🛠️ **Tech Stack:**  
-**Languages:** Java, Python, JavaScript, C , C++ 
-**Frameworks:** Flask, React  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, Docker, VS Code, PyCharm  
-**Others:** SDLC, REST APIs, Agile, Debugging, Microservice Design
-
----
-
-📘 **Strong in Java, DSA & Backend Development**  
-I have a strong command over **Java programming**, with expertise in:
-- 💡 Data Structures and Algorithms (DSA)
-- 🔁 OOP (Object-Oriented Programming)
-- 🧵 Multithreading
-- 💥 Exception Handling
-- 📦 Collections Framework
-- 🗃️ JDBC & Database Connectivity
-- 🌐 Building backend systems and APIs
-
-I demonstrate these skills through my real-world **Java projects**, applying clean code principles and problem-solving techniques to build scalable and efficient applications.
-
-
----
-
-🎯 **Fun Facts:**  
-- 🏓 Carrom Champion  
-- 🏏 Cricket & E-sports Enthusiast  
-- 🚗 I love driving cars and enjoy the thrill of the open road  
-- 🎓 Learning never stops — every project is a new opportunity!
-
-
----
-
-📫 **Connect with Me:**  
-- 📸 [Instagram](https://www.instagram.com/ganeshsonawane709)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-sonawane-356179219)  
-- 📧 Email: [ganeshsonawane39773@gmail.com](mailto:ganeshsonawane39773@gmail.com) & [gs6394946@gmail.com](mailto:gs6394946@gmail.com)
-
-
----
-
-💬 *Let’s collaborate and build something amazing!*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsonawane39773&" alt="ganeshsonawane39773" /></p>
