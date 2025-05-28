@@ -1,8 +1,7 @@
  ![logo](https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Link.jpg)
 
 <h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1>
-<h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3> 
 
 
 
