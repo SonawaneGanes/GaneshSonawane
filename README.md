@@ -4,7 +4,7 @@
 <h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsonawane39773&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsonawane39773" /> </p>
+
 
 - 🌱 I’m currently learning **Agile, SDLC, REST APIs, Debugging, Microservices, Cybersecurity**
 - 💬 Ask me about **Java, Python, Flask, React, IoT, Cloud Computing**
