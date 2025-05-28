@@ -1,4 +1,4 @@
-![logo](https://github.com/ganeshsonawane39773/GaneshSonawane/blob/main/Link.jpg)
+ ![logo](https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Link.jpg)
 
 <h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1>
 <h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3>
