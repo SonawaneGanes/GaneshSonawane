@@ -60,7 +60,7 @@
       <a href="https://github.com/SonawaneGanes/NEWS-WEBSITE-USING-PYTHON-FLASK.git">📁 Source Code</a>
     </td>
      <td>
-      <img src="https://images.unsplash.com/photo-1610401081998-e82c4bd19d82" alt="Project 2" width="100%">
+      <img src="https://github.com/SonawaneGanes/GaneshSonawane/blob/main/krstmodel.png">
       <h4>🔍 WildEye AI</h4>
       <p>AI-powered wildlife surveillance and monitoring tool. Detects endangered species using image recognition.</p>
       <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
