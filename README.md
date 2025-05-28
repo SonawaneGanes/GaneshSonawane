@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://images.unsplash.com/photo-1612832021264-9926a45aede5" alt="Project 1" width="100%">
+      <img src="https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Screenshot%202025-05-20%20154147.png">
       <h4>🗞 News Web App</h4>
       <p>Built using Flask, HTML, CSS, and JS. Users can read latest news, signup/login, and interactively explore categories.</p>
       <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
