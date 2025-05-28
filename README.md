@@ -49,3 +49,38 @@
 </p>
 
 
+<h3 align="left">🚀 Projects:</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1612832021264-9926a45aede5" alt="Project 1" width="100%">
+      <h4>🗞 News Web App</h4>
+      <p>Built using Flask, HTML, CSS, and JS. Users can read latest news, signup/login, and interactively explore categories.</p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+    </td>
+    <td>
+      <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7" alt="Project 2" width="100%">
+      <h4>📊 Data Dashboard</h4>
+      <p>A dynamic dashboard using Plotly, Dash & Pandas for real-time data visualization and analytics.</p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://images.unsplash.com/photo-1581090700227-1e8a937b5e4d" alt="Project 3" width="100%">
+      <h4>🔐 Cybercrime Record System</h4>
+      <p>Java + MySQL based platform to manage cybercriminal records with CRUD operations and admin dashboard.</p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+    </td>
+    <td>
+      <img src="https://images.unsplash.com/photo-1612831660479-b1f3dbbe02a6" alt="Project 4" width="100%">
+      <h4>🌐 IoT Smart Home Control</h4>
+      <p>Web-based control system for smart devices using Node.js, MQTT, Docker, and voice assistants like Alexa & Google.</p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+    </td>
+  </tr>
+</table>
+
+
+
