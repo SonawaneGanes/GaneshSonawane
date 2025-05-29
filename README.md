@@ -5,8 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **Agile, SDLC, REST APIs, Debugging, Microservices, Cybersecurity**
-- 💬 Ask me about **Java, Python, Flask, React, IoT, Cloud Computing**
+- 🌱 I’m currently learning **Agile, SDLC, REST APIs, Debugging, Microservices**
+- 💬 Ask me about **Java, Python, Flask, React, IoT, Cloud Computing, AI**
 - 📫 How to reach me **ganeshsonawane39773@gmail.com**, **gs6394946@gmail.com**
 - ⚡ Fun fact **Carrom Champion & Cricket & E-sports Enthusiast**
 
