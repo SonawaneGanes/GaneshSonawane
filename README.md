@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Sonawane</h1>
 <h3 align="center">Final-Year Engineering Student | Software & Web Developer | Cloud, IoT & AI Enthusiast</h3> 
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
 
 
 
