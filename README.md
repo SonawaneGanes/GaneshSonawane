@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning **Agile, SDLC, REST APIs, Debugging, Microservices**
 - 💬 Ask me about **Java, Python, Flask, React, IoT, Cloud Computing, AI**
 - 📫 How to reach me **ganeshsonawane39773@gmail.com**, **gs6394946@gmail.com**
-- ⚡ Fun fact **Carrom Champion & Cricket & E-sports Enthusiast**
+- ⚡ Fun fact **Carrom Champion 🏆 | Cricket 🏏 & E-sports 🎮 Enthusiast**
+- 🎯 GitHub Contributions (Last Year): **48 contributions**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
