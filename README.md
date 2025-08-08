@@ -79,7 +79,7 @@
       <img src="https://github.com/SonawaneGanes/AI_PPT_Generator/blob/main/AI%20PPT%20Generator.png">
       <h4>AI_PPT_Generator</h4>
       <p>AI-powered Flask web app that generates fully-themed, image-rich PowerPoint presentations from any topic using GPT-3.5</p>
-      <a href="https://github.com/SonawaneGanes/AI_PPT_Generator.git">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+      <a href="#">🔗 Live Demo</a> | <a href="https://github.com/SonawaneGanes/AI_PPT_Generator.git">📁 Source Code</a>
     </td>
   </tr>
 </table>
