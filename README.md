@@ -76,10 +76,10 @@
       <a href="https://github.com/SonawaneGanes/Flight-Price-Prediction.git">📁 Source Code</a>
     </td>
     <td>
-      <img src="https://images.unsplash.com/photo-1612831660479-b1f3dbbe02a6" alt="Project 4" width="100%">
-      <h4>🌐 IoT Smart Home Control</h4>
-      <p>Web-based control system for smart devices using Node.js, MQTT, Docker, and voice assistants like Alexa & Google.</p>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
+      <img src="https://github.com/SonawaneGanes/AI_PPT_Generator/blob/main/AI%20PPT%20Generator.png">
+      <h4>AI_PPT_Generator</h4>
+      <p>AI-powered Flask web app that generates fully-themed, image-rich PowerPoint presentations from any topic using GPT-3.5</p>
+      <a href="https://github.com/SonawaneGanes/AI_PPT_Generator.git">🔗 Live Demo</a> | <a href="#">📁 Source Code</a>
     </td>
   </tr>
 </table>
